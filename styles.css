@@ -4,11 +4,11 @@ body {
   margin: 10px auto;
 }
 
-img {
+/*img {
   width: 150px;
   box-shadow: 8px 8px 4px #AAA;
   float: right;
-}
+}*/
 
 .header {
   background: #EEE;
@@ -19,4 +19,9 @@ img {
 h3 {
   border-bottom: solid 4px gray;
   padding-bottom: 8px;
+}
+
+.vertalign h2 {
+    vertical-align: middle;
+    display: inline-block;
 }
